@@ -1,0 +1,20 @@
+{
+    "name": "Spyke.Features",
+    "rootNamespace": "Spyke.Features",
+    "references": [
+        "Spyke.Core",
+        "Spyke.Services",
+        "Spyke.UI",
+        "UniTask",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

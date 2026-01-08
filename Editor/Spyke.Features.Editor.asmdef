@@ -1,0 +1,21 @@
+{
+    "name": "Spyke.Features.Editor",
+    "rootNamespace": "Spyke.Features.Editor",
+    "references": [
+        "Spyke.Features",
+        "Spyke.Core",
+        "Spyke.Services",
+        "Spyke.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,30 @@
+{
+  "name": "com.spykegames.features",
+  "version": "0.1.0",
+  "displayName": "Spyke Features",
+  "description": "Reusable game features package for Spyke games. Includes Chest, Inbox, Leaderboard, DailyBonus, Tutorial, SeasonPass, and Team features.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/spykegames/upm-spyke-features",
+  "changelogUrl": "https://github.com/spykegames/upm-spyke-features/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/spykegames/upm-spyke-features/blob/main/LICENSE",
+  "dependencies": {
+    "com.spykegames.core": "0.1.0",
+    "com.spykegames.services": "0.1.0",
+    "com.spykegames.ui": "0.1.0"
+  },
+  "keywords": [
+    "spyke",
+    "features",
+    "chest",
+    "inbox",
+    "leaderboard",
+    "tutorial",
+    "seasonpass"
+  ],
+  "author": {
+    "name": "Spyke Games",
+    "email": "dev@spykegames.com",
+    "url": "https://spykegames.com"
+  }
+}
