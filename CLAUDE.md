@@ -34,7 +34,7 @@ upm-spyke-features/
 | `Runtime/Inbox/` | Player inbox/messages | ✅ Done |
 | `Runtime/Leaderboard/` | Rankings and competitions | ✅ Done |
 | `Runtime/Rewards/` | Reward granting system | 🚧 TODO |
-| `Runtime/DailyBonus/` | Daily login rewards | 🚧 TODO |
+| `Runtime/DailyBonus/` | Daily login rewards | ✅ Done |
 | `Runtime/Tutorial/` | Tutorial step system | 🚧 TODO |
 | `Runtime/SeasonPass/` | Battle pass feature | 🚧 TODO |
 | `Runtime/Team/` | Team management | 🚧 TODO |
@@ -109,9 +109,9 @@ From `client-bootstrap`:
 - ✅ Chest feature (models, controller, view, installer)
 - ✅ Inbox feature (items, model, controller, view, installer)
 - ✅ Leaderboard feature (entries, model, controller, view, installer)
+- ✅ DailyBonus feature (rewards, model, controller, view, config)
 
 ### Planned Features
-- 🚧 DailyBonus (daily rewards, streaks)
 - 🚧 Tutorial (step system, highlighting)
 - 🚧 SeasonPass (tiers, rewards, progression)
 - 🚧 Team (create, join, chat, contributions)
