@@ -31,7 +31,7 @@ upm-spyke-features/
 | Feature | Purpose | Status |
 |---------|---------|--------|
 | `Runtime/Chest/` | Reward chest system | ✅ Done |
-| `Runtime/Inbox/` | Player inbox/messages | 🚧 TODO |
+| `Runtime/Inbox/` | Player inbox/messages | ✅ Done |
 | `Runtime/Leaderboard/` | Rankings and competitions | 🚧 TODO |
 | `Runtime/Rewards/` | Reward granting system | 🚧 TODO |
 | `Runtime/DailyBonus/` | Daily login rewards | 🚧 TODO |
@@ -107,9 +107,9 @@ From `client-bootstrap`:
 - ✅ Assembly definitions configured
 - ✅ CLAUDE.md documentation
 - ✅ Chest feature (models, controller, view, installer)
+- ✅ Inbox feature (items, model, controller, view, installer)
 
 ### Planned Features
-- 🚧 Inbox (messages, notifications, claiming)
 - 🚧 Leaderboard (rankings, tabs, rewards)
 - 🚧 DailyBonus (daily rewards, streaks)
 - 🚧 Tutorial (step system, highlighting)
